@@ -24,6 +24,14 @@ An AI-powered Smart Task Planner that transforms high-level goals into structure
 - **Framer Motion**: Animation library for React
 - **React Router**: Client-side routing
 
+
+Screenshots:
+
+
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/21cf490e-9200-4863-aadb-d8311597ef56" />
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/ad08f1bc-832b-4d90-93d6-89892dd11681" />
+<img width="1890" height="958" alt="image" src="https://github.com/user-attachments/assets/c8c430f0-c2ab-432d-b216-0f4606e82342" />
+
 ## Setup Instructions
 
 ### Prerequisites
